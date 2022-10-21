@@ -1,0 +1,3 @@
+Andrejs;Čepenko;Sistēmas administrators;26
+Jānis;Gocuļāks;Redaktors;30
+Valērija;Meldere;Redaktors; 24

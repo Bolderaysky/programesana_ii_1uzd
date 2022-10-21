@@ -1,0 +1,3 @@
+Daniils;Bogdanovs;Strādnieks;32 
+Deniss;Morozovs;Strādnieks;37
+Aleksejs;Filipovs;Strādnieks;28
